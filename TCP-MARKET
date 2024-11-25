@@ -1,0 +1,93 @@
+JSON для добавления TCP-MARKET в проект DeFi
+
+{
+    "name": "TCP-MARKET",
+    "logoURI": "https://tcp-market.com/icons/Logo_TCP_100_100.png",
+    "homepage": "https://tcp-market.com/",
+    "MarketCapLink": "",
+    "url": "https://apilist.tcp-market.com/api/tvl",
+    "category": "DEX",
+    "poolAddresses": [
+        "TQG8XGXYzRTciGiR8yjPv7yme2AVJ2n12b"
+    ]
+}
+
+
+
+
+Шаблон PR для добавления TCP-MARKET
+
+Please provide the following information for your DeFi project.
+
+Please include changes to the defiProjectList.json file in the PR.
+DON'T modify any other project's contents.
+
+
+
+
+Twitter Link:
+
+https://x.com/AnastasiRodion1
+
+List of audit links if any:
+
+(To be provided if available)
+
+Homepage:
+
+https://tcp-market.com/
+
+Logo (High resolution):
+
+https://tcp-market.com/icons/Logo_TCP_100_100.png
+
+URL to get TVL:
+
+https://apilist.tcp-market.com/api/tvl
+
+Current TVL:
+
+$17,379.6 (based on 14,000 USDT + 17,000 TRX at $0.1988)
+
+CoinMarketCap ID:
+
+(To be added if registered)
+
+Short Description:
+
+TCPcent powers the TCP-MARKET ecosystem, facilitating seamless transactions, fee payments, and liquidity provisioning.
+
+Token address and ticker if any:
+
+Address: TQG8XGXYzRTciGiR8yjPv7yme2AVJ2n12b
+Ticker: TCPct
+
+Pool addresses:
+
+TQG8XGXYzRTciGiR8yjPv7yme2AVJ2n12b
+
+Category (Choose one):
+
+DEX
+
+Oracle used:
+
+WINkLink (if applicable, or specify another)
+
+forkedFrom:
+
+Not forked
+
+methodology:
+
+All tokens staked in the pool MINUS borrowed assets are counted as TVL. Borrowed assets are excluded.
+
+
+
+Инструкции по добавлению
+
+1. Сделайте форк репозитория, в который нужно добавить проект.
+
+
+2. Измените файл defiProjectList.json, добавив JSON для TCP-MARKET.
+
